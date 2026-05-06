@@ -2,8 +2,8 @@
 
 ![bleh](https://file.garden/aWda6_hwaGcNwjuj/Untitled127_20260426084925.png)
 
-[𝚛𝚎𝚗𝚝𝚛𝚢](https://rentry.co/lusct)⠀⠀⠀⠀[新𝚋𝚘𝚘𝚔](https://casper.atabook.org/)⠀⠀⠀⠀⠀⠀
-    ![crmi](https://file.garden/aWda6_hwaGcNwjuj/IMG_4420.gif)
+[𝚛𝚎𝚗𝚝𝚛𝚢](https://rentry.co/lusct)⠀⠀⠀⠀[新𝚋𝚘𝚘𝚔](https://casper.atabook.org/)⠀⠀⠀⠀
+[𝚜𝚝𝚛𝚊𝚠](https://purepoison.straw.page)⠀⠀⠀⠀![gh](https://file.garden/aWda6_hwaGcNwjuj/IMG_4420.gif)
 
 
 </div>
