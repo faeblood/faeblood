@@ -3,19 +3,19 @@
 ![bleh](https://file.garden/aWda6_hwaGcNwjuj/Untitled203_20260712100821.png)
 
 
-<sub> ${\textsf{\color{#5D82A1}In}}$
-${\textsf{\color{#779EBE}sleep}}$
-${\textsf{\color{#9EC4E3}he}}$
-${\textsf{\color{#5D82A1}sang}}$
-${\textsf{\color{#5D82A1}to}}$
-${\textsf{\color{#779EBE}me}}$
-${\textsf{\color{#9EC4E3},}}$
+<sub> ${\textsf{\color{#402A5D}In}}$
+${\textsf{\color{#4A3369}sleep}}$
+${\textsf{\color{#5B4181}he}}$
+${\textsf{\color{#66498F}sang}}$
+${\textsf{\color{#6A4D96}to}}$
+${\textsf{\color{#7858AA}me}}$
+${\textsf{\color{#7858AA},}}$
 </sub>
 
-<sub> ${\textsf{\color{#5D82A1}in}}$
-${\textsf{\color{#5D82A1}dreams}}$
-${\textsf{\color{#779EBE}he}}$
-${\textsf{\color{#9EC4E3}came.}}$
+<sub> ${\textsf{\color{#7858AA}in}}$
+${\textsf{\color{#7858AA}dreams}}$
+${\textsf{\color{#8463B9}he}}$
+${\textsf{\color{#8463B9}came.}}$
 </sub>
 
 </div>
