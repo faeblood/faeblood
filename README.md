@@ -9,11 +9,11 @@ ${\textsf{\color{#9EC4E3}he}}$
 ${\textsf{\color{#5D82A1}sang}}$
 ${\textsf{\color{#5D82A1}to}}$
 ${\textsf{\color{#779EBE}me}}$
-${\textsf{\color{#9EC4E3}.}}$
+${\textsf{\color{#9EC4E3},}}$
 </sub>
 
-<sub> ${\textsf{\color{#5D82A1}In}}$
-${\textsf{\color{#5D82A1}dreams,}}$
+<sub> ${\textsf{\color{#5D82A1}in}}$
+${\textsf{\color{#5D82A1}dreams}}$
 ${\textsf{\color{#779EBE}he}}$
 ${\textsf{\color{#9EC4E3}came.}}$
 </sub>
