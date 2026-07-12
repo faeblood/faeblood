@@ -14,8 +14,8 @@ ${\textsf{\color{#7858AA},}}$
 
 <sub> ${\textsf{\color{#7858AA}in}}$
 ${\textsf{\color{#7858AA}dreams}}$
-${\textsf{\color{#8463B9}he}}$
-${\textsf{\color{#8463B9}came.}}$
+${\textsf{\color{#9B7CCC}he}}$
+${\textsf{\color{#9B7CCC}came.}}$
 </sub>
 
 </div>
