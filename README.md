@@ -9,7 +9,7 @@ ${\textsf{\color{#282841}he}}$
 ${\textsf{\color{#282841}sang}}$
 ${\textsf{\color{#363656}to}}$
 ${\textsf{\color{#363656}me}}$
-${\textsf{\color{#7858AA},}}$
+${\textsf{\color{#4C4C68},}}$
 </sub>
 
 <sub> ${\textsf{\color{#3E3E58}in}}$
