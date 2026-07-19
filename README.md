@@ -4,16 +4,16 @@
 
 
 <sub> ${\textsf{\color{#FFFFFF}In}}$
-${\textsf{\color{#D7D7D7}sleep}}$
+${\textsf{\color{#6A6990}sleep}}$
 ${\textsf{\color{#FFFFFF}he}}$
-${\textsf{\color{#D7D7D7}sang}}$
+${\textsf{\color{#6A6990}sang}}$
 ${\textsf{\color{#FFFFFF}to}}$
 ${\textsf{\color{#FFFFFF}me}}$
 ${\textsf{\color{#FFFFFF},}}$
 ${\textsf{\color{#FFFFFF}in}}$
-${\textsf{\color{#D7D7D7}dreams}}$
+${\textsf{\color{#6A6990}dreams}}$
 ${\textsf{\color{#FFFFFF}he}}$
-${\textsf{\color{#D7D7D7}came.}}$
+${\textsf{\color{#6A6990}came.}}$
 </sub>
 
 </div>
