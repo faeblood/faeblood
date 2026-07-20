@@ -3,17 +3,17 @@
 ![bleh](https://file.garden/aWda6_hwaGcNwjuj/Untitled214_20260719160055.png)
 
 
-<sub> ${\textsf{\color{#FFFFFF}In}}$
-${\textsf{\color{#6A6990}sleep}}$
-${\textsf{\color{#FFFFFF}he}}$
-${\textsf{\color{#6A6990}sang}}$
-${\textsf{\color{#FFFFFF}to}}$
-${\textsf{\color{#FFFFFF}me}}$
-${\textsf{\color{#FFFFFF},}}$
-${\textsf{\color{#FFFFFF}in}}$
-${\textsf{\color{#6A6990}dreams}}$
-${\textsf{\color{#FFFFFF}he}}$
-${\textsf{\color{#6A6990}came.}}$
+<sub> ${\textsf{\color{#FFFFFF}Come}}$
+${\textsf{\color{#}c*h}}$
+${\textsf{\color{#FFFFFF}with}}$
+${\textsf{\color{#}me}}$
+${\textsf{\color{#FFFFFF}as}}$
+${\textsf{\color{#FFFFFF}long}}$
+${\textsf{\color{#FFFFFF}as}}$
+${\textsf{\color{#FFFFFF}you're not}}$
+${\textsf{\color{#}on}}$
+${\textsf{\color{#FFFFFF}my}}$
+${\textsf{\color{#}DNI.}}$
 </sub>
 
 </div>
