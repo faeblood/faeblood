@@ -1,7 +1,6 @@
 <div align="center">
 
-![bleh](https://file.garden/aWda6_hwaGcNwjuj/Untitled214_20260719160055.png)
-
+<img src="https://file.garden/aWda6_hwaGcNwjuj/IMG_4970.png" width="400" align="center">
 
 <sub> ${\textsf{\color{#FFFFFF}Come}}$
 ${\textsf{\color{#}c*h}}$
